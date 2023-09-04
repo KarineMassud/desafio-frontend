@@ -1,0 +1,19 @@
+.icon {
+    cursor: pointer;
+    margin: 0 .5rem;
+}
+
+.green {
+    color: #0b8d0b;
+}
+
+.red {
+    color: #ff0000;
+}
+
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 1rem;
+}
